@@ -1,0 +1,56 @@
+ {
+  box-sizing: border-box;
+}
+body{
+  background-color: #f0f0f0;
+  color:#5C6AC4;
+  padding: 25px;
+}
+
+.title {
+	color: #5C6AC4;
+	
+}
+.column {
+  float: left;
+  width: 25%;
+  padding: 0 10px;
+}
+/* Remove extra left and right margins, due to padding */
+.row {margin: 0 -5px;}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+  @media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+
+.card {
+  	color: #5C6AC4;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+  padding: 16px;
+  text-align: center;
+  background-color: orange;
+
+.current weather {
+   color: blue;
+   box-shadow: 2px 2px 5px;
+
+}
+
+
+
+
+
+
+
+
+
+
