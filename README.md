@@ -1,1 +1,2 @@
 # Weatherapplication
+This project is about a weather application which is developed by Adebiyi Adeyanju. In building this project, I used html ,css and javascript for the fontend and I used MYSQL for the backend development(html,css,javascript,MYSQL). PM Accelerator: From entry-level to VP of Product, we support PM professionals through every stage of their careers.  The Product Manager Accelerator Program is designed to support product management professionals through every stage of their careers.
